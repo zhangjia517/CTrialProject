@@ -10,5 +10,6 @@ int main()
 	printf("Address stored in ip variable: %x\n", ip);
 	/* 使用指针访问值 */
 	printf("Value of *ip variable: %d\n", *ip);
+
 	return 0;
 }
